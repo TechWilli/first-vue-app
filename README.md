@@ -1,4 +1,4 @@
-# frist-vue-app
+# first-vue-app
 
 ## Project setup
 ```
